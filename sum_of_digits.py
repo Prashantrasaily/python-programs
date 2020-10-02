@@ -1,6 +1,7 @@
-x = input(" Enter the integer :")
-
-sum = 0
-for i in x:
-    sum = sum + int(i)
+ x = int(input(" Enter first integer :")),
+ Y = int(input(" Enter second integer :))
+               
+sum = int( x +y)
 print(sum)
+
+
